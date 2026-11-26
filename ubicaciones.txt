@@ -1,0 +1,11 @@
+# nombre  latitud  longitud  altitud_m
+Bogota      4.7110  -74.0721  2640
+Quito      -0.1807  -78.4678  2850
+Santiago  -33.4489  -70.6693   570
+Oslo       59.9139   10.7522    23
+Sidney    -33.8688  151.2093    58
+Polo_Norte  90         0         0
+Polo_Sur   -90         0         0
+Chichen_Itza   20.6843    -88.5678     30
+Xian           34.2611    108.9422    405
+Kyoto      35.0116    135.7681     50

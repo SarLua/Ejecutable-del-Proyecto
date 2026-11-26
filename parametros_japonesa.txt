@@ -1,0 +1,13 @@
+catalogo         datos/hygdata_v42.csv
+constelaciones   datos/stellarium/japanese/index.json
+ubicaciones      ubicaciones.txt
+lugar            Kyoto # nombre de ubicaciones.txt
+fecha            2026-11-25T11:00:00Z   # UTC
+vista            observador             # observador | globo
+campo_vision     60
+magnitud_limite  6.0
+estrella_escala  3.0
+radio_esfera     1000
+mostrar          lineas on
+mostrar          nombres on
+velocidad_tiempo 60
